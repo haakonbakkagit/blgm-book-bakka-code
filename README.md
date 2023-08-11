@@ -1,6 +1,7 @@
 # blgm-book-bakka-code
-R code for the blgm book by Hrafnkelsson et al
 
-TODO!
+R code for the blgm book by Hrafnkelsson et. al.
 
-This is just an empty repository placeholder.
+The Rmarkdown should run on your machine (with the dataset provided).
+
+I also uploaded the resulting files (pdf + folder).
